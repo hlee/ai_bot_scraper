@@ -1,0 +1,312 @@
+{
+  "categories": {
+    "chat": {
+      "name": "AI聊天",
+      "tools": [
+        {
+          "name": "ChatGPT APP",
+          "description": "OpenAI开发的AI聊天机器人应用",
+          "views": "54178",
+          "likes": "1179",
+          "url": "https://ai-bot.cn/tools/chatgpt-app/"
+        },
+        {
+          "name": "DeepSeek APP",
+          "description": "国内团队开发的AI助手",
+          "views": "72934",
+          "likes": "1215",
+          "url": "https://ai-bot.cn/tools/deepseek-app/"
+        },
+        {
+          "name": "Kimi智能助手APP",
+          "description": "月之暗面开发的新一代AI助手",
+          "views": "4243",
+          "likes": "334",
+          "url": "https://ai-bot.cn/tools/kimi-app/"
+        },
+        {
+          "name": "讯飞星火APP",
+          "description": "科大讯飞的AI助手应用",
+          "views": "1514",
+          "likes": "101",
+          "url": "https://ai-bot.cn/tools/xinghuo-app/"
+        },
+        {
+          "name": "百川智能APP",
+          "description": "前阿里团队打造的开源AI助手",
+          "views": "1722",
+          "likes": "44",
+          "url": "https://ai-bot.cn/tools/baichuan-app/"
+        },
+        {
+          "name": "Wow APP",
+          "description": "腾讯最新推出的AI聊天助手",
+          "views": "3960",
+          "likes": "42",
+          "url": "https://ai-bot.cn/tools/wow-app/"
+        },
+        {
+          "name": "Microsoft Copilot APP",
+          "description": "微软的AI助手移动应用",
+          "views": "3105",
+          "likes": "50",
+          "url": "https://ai-bot.cn/tools/copilot-app/"
+        },
+        {
+          "name": "Character AI APP",
+          "description": "创建AI角色的应用",
+          "views": "4488",
+          "likes": "27",
+          "url": "https://ai-bot.cn/tools/character-ai-app/"
+        },
+        {
+          "name": "Claude APP",
+          "description": "Anthropic开发的AI助手",
+          "views": "1481",
+          "likes": "21",
+          "url": "https://ai-bot.cn/tools/claude-app/"
+        },
+        {
+          "name": "智谱AI APP",
+          "description": "MiniMax团队的AI助手",
+          "views": "429",
+          "likes": "23",
+          "url": "https://ai-bot.cn/tools/zhipu-ai-app/"
+        },
+        {
+          "name": "Poe APP",
+          "description": "Quora开发的AI聊天工具",
+          "views": "1139",
+          "likes": "12",
+          "url": "https://ai-bot.cn/tools/poe-app/"
+        },
+        {
+          "name": "讯飞智文APP",
+          "description": "科大讯飞的AI写作助手",
+          "views": "460",
+          "likes": "25",
+          "url": "https://ai-bot.cn/tools/zhiwen-app/"
+        },
+        {
+          "name": "智海APP",
+          "description": "国内团队开发的AI助手",
+          "views": "250",
+          "likes": "11",
+          "url": "https://ai-bot.cn/tools/zhihai-app/"
+        },
+        {
+          "name": "独秀APP",
+          "description": "国内AI团队开发的AI+知识库",
+          "views": "170",
+          "likes": "16",
+          "url": "https://ai-bot.cn/tools/duxiu-app/"
+        },
+        {
+          "name": "AiU APP",
+          "description": "国内团队开发的AI聊天助手",
+          "views": "1899",
+          "likes": "21",
+          "url": "https://ai-bot.cn/tools/aiu-app/"
+        },
+        {
+          "name": "万能APP",
+          "description": "国内团队开发的AI聊天助手",
+          "views": "294",
+          "likes": "12",
+          "url": "https://ai-bot.cn/tools/wanneng-app/"
+        },
+        {
+          "name": "小乌龟APP",
+          "description": "国内团队开发的AI聊天助手",
+          "views": "242",
+          "likes": "10",
+          "url": "https://ai-bot.cn/tools/xiaowugui-app/"
+        },
+        {
+          "name": "叮叮APP",
+          "description": "国内团队开发的AI助手",
+          "views": "274",
+          "likes": "6",
+          "url": "https://ai-bot.cn/tools/dingding-app/"
+        },
+        {
+          "name": "HuggingChat APP",
+          "description": "Hugging Face开发的AI聊天APP",
+          "views": "111",
+          "likes": "11",
+          "url": "https://ai-bot.cn/tools/huggingchat-app/"
+        },
+        {
+          "name": "X Eva APP",
+          "description": "国内团队开发的AI聊天助手",
+          "views": "877",
+          "likes": "13",
+          "url": "https://ai-bot.cn/tools/x-eva-app/"
+        },
+        {
+          "name": "小维智聊APP",
+          "description": "vivo开发的手机端AI助手",
+          "views": "270",
+          "likes": "10",
+          "url": "https://ai-bot.cn/tools/xiaowei-app/"
+        },
+        {
+          "name": "Replika APP",
+          "description": "AI虚拟伴侣应用",
+          "views": "390",
+          "likes": "3",
+          "url": "https://ai-bot.cn/tools/replika-app/"
+        },
+        {
+          "name": "小飞机APP",
+          "description": "国内团队开发的AI助手",
+          "views": "93",
+          "likes": "5",
+          "url": "https://ai-bot.cn/tools/xiaofeiji-app/"
+        }
+      ]
+    },
+    "writing": {
+      "name": "AI写作",
+      "tools": [
+        {
+          "name": "讯飞智文APP",
+          "description": "科大讯飞的AI写作助手",
+          "views": "460",
+          "likes": "25",
+          "url": "https://ai-bot.cn/tools/zhiwen-app/"
+        },
+        {
+          "name": "Wordvice AI",
+          "description": "Wordvice开发的AI写作工具",
+          "url": "https://ai-bot.cn/tools/wordvice-ai/"
+        }
+      ]
+    },
+    "image": {
+      "name": "AI绘画",
+      "tools": [
+        {
+          "name": "Stable Diffusion",
+          "description": "Stability AI开发的开源AI绘画模型",
+          "url": "https://ai-bot.cn/tools/stable-diffusion/"
+        },
+        {
+          "name": "Midjourney",
+          "description": "AI艺术创作工具",
+          "url": "https://ai-bot.cn/tools/midjourney/"
+        },
+        {
+          "name": "稿定AI",
+          "description": "国内团队开发的AI绘画和图像处理工具",
+          "url": "https://ai-bot.cn/tools/gaoding-ai/"
+        },
+        {
+          "name": "画宇宙",
+          "description": "国内团队开发的AI绘画工具",
+          "url": "https://ai-bot.cn/tools/huayuzhou/"
+        },
+        {
+          "name": "文心一格",
+          "description": "百度开发的AI艺术创作平台",
+          "url": "https://ai-bot.cn/tools/wenxin-yige/"
+        }
+      ]
+    },
+    "audio": {
+      "name": "AI音频",
+      "tools": [
+        {
+          "name": "ThinkAny",
+          "description": "智能AI配音工具",
+          "url": "https://ai-bot.cn/tools/thinkany/"
+        },
+        {
+          "name": "Miku",
+          "description": "虚拟歌姬AI工具",
+          "url": "https://ai-bot.cn/tools/miku/"
+        },
+        {
+          "name": "讯飞配音",
+          "description": "AI智能配音和语音合成工具",
+          "url": "https://ai-bot.cn/tools/xunfei-tts/"
+        },
+        {
+          "name": "魔音工坊",
+          "description": "网易开发的AI音频处理工具",
+          "url": "https://ai-bot.cn/tools/moyin/"
+        },
+        {
+          "name": "配音AI",
+          "description": "专业的AI配音软件",
+          "url": "https://ai-bot.cn/tools/peiyin-ai/"
+        },
+        {
+          "name": "Suno",
+          "description": "AI音乐创作工具",
+          "url": "https://ai-bot.cn/tools/suno/"
+        },
+        {
+          "name": "魔音",
+          "description": "腾讯开发的AI音频处理和音乐创作工具",
+          "url": "https://ai-bot.cn/tools/moyin-qq/"
+        },
+        {
+          "name": "配音侠",
+          "description": "专业的AI配音和语音合成平台",
+          "url": "https://ai-bot.cn/tools/peiyinxia/"
+        }
+      ]
+    },
+    "video": {
+      "name": "AI视频",
+      "tools": [
+        {
+          "name": "剪映",
+          "description": "字节跳动开发的AI智能视频剪辑工具",
+          "url": "https://ai-bot.cn/tools/jianying/"
+        },
+        {
+          "name": "Hotpot.ai",
+          "description": "AI视频处理工具",
+          "url": "https://ai-bot.cn/tools/hotpot-ai/"
+        },
+        {
+          "name": "万兴播爆",
+          "description": "万兴科技开发的AI视频创作工具",
+          "url": "https://ai-bot.cn/tools/wondershare-virbo/"
+        },
+        {
+          "name": "一帧秒创",
+          "description": "AI智能视频创作平台",
+          "url": "https://ai-bot.cn/tools/yizhenmiao/"
+        },
+        {
+          "name": "Vidu",
+          "description": "专业的在线视频剪辑AI工具",
+          "url": "https://ai-bot.cn/tools/vidu/"
+        },
+        {
+          "name": "SoundView",
+          "description": "AI视频声音处理工具",
+          "url": "https://ai-bot.cn/tools/soundview/"
+        },
+        {
+          "name": "爱剪",
+          "description": "腾讯AI视频剪辑200+特效3分钟",
+          "url": "https://ai-bot.cn/tools/aijian/"
+        },
+        {
+          "name": "HeyGen",
+          "description": "AI/GC 数字人视频生成和编辑工具",
+          "url": "https://ai-bot.cn/tools/heygen/"
+        },
+        {
+          "name": "一视AI",
+          "description": "专业的视频内容生成和处理工具",
+          "url": "https://ai-bot.cn/tools/yishi-ai/"
+        }
+      ]
+    }
+  }
+}
