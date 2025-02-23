@@ -1,0 +1,20 @@
+schemaVersion: 2.0.0
+metadata:
+  name: memory-card-game
+components:
+  - name: dev
+    container:
+      image: public.ecr.aws/aws-mde/universal-image:latest
+commands:
+  - id: install
+    exec:
+      component: dev
+      commandLine: "echo 'No dependencies to install for this vanilla web project'"
+  - id: build
+    exec:
+      component: dev
+      commandLine: "echo 'No build step required for this vanilla web project'"
+  - id: test
+    exec:
+      component: dev
+      commandLine: "echo 'No automated tests defined for this vanilla web project'"
